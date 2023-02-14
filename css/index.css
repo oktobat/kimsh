@@ -342,7 +342,7 @@
 
 
 /* section의 article5 구역  */
-.article5 { padding:100px 0; 
+.article5 { padding:100px 0; height:400px; 
     background:url(../images/rf2.jpg) no-repeat center top;
     background-size:100% auto;
     background-attachment: fixed; 
