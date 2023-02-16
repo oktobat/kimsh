@@ -292,16 +292,6 @@
 
 
 /* section의 article5 구역  */
-.article5 { 
-    width: 100%;
-    padding:100px 0; 
-    background:url(../images/rf2.jpg) no-repeat center top;
-    background-size:100vmax 100vmax; 
-    background-attachment: scroll; 
-    margin-top:50px; 
-    text-align:center; 
-}
-
 .article5 p { 
     padding: 15px 0 25px; 
     word-break:keep-all;
