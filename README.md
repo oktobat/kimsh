@@ -1,1 +1,1 @@
-# kimsh
+https://oktobat.github.io/kimsh/
