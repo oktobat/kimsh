@@ -132,9 +132,7 @@
 /* section의 article2 구역 */
 
 .article2{
-    margin: 100px auto;
-    margin-left: 100px;
-    margin-right: 100px;
+    padding:100px;
     background:#fff; 
 }
 
@@ -283,12 +281,14 @@
 
 /* section의 article4 구역  */
 .article4{
-    max-width: 1330px;
-    margin-left: auto;
-    margin-right: auto;
     padding-left: 15px;
     padding-right: 15px;
     background:#fff; 
+}
+.article4 .inside {
+    max-width: 1330px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .article4 .inside-text{
@@ -379,12 +379,15 @@
 
 /* section의 article6 구역  */
 .article6{
-    max-width: 1330px;
-    margin-left: auto;
-    margin-right: auto;
     padding-left: 15px;
     padding-right: 15px;
     background:#fff; 
+    padding-bottom:100px;
+}
+.article6 .body {
+     max-width: 1330px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .article6 .gallery-text{
@@ -445,7 +448,6 @@
 .article7{
     height: 420px;
     background: #fa5c5c;
-    margin-top: 100px;
 } 
 
 .article7 .part7{
@@ -492,14 +494,16 @@
  /* section의 article8 구역  */
 
  .article8{
-     max-width: 1330px;
      height: 500px;
-     margin-left: auto;
-     margin-right: auto;
      padding-left: 15px;
      padding-right: 15px;
      background:#fff; 
  }
+.article8 .contact {
+    max-width: 1330px;
+    margin-left: auto;
+    margin-right: auto;
+}
  
  .article8 .contact-text{
      text-align: center;
