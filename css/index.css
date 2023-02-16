@@ -344,8 +344,9 @@
 /* section의 article5 구역  */
 .article5 { padding:100px 0; 
     background:url(../images/rf2.jpg) no-repeat center top;
-    background-size:100vmax 100vmax;
-    background-attachment: scroll; 
+    -webkit-background-size:cover;
+    background-size:cover;
+    background-attachment: fixed; 
     margin-top:100px; 
     text-align:center; 
 }
