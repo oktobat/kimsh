@@ -135,6 +135,7 @@
     margin: 100px auto;
     margin-left: 100px;
     margin-right: 100px;
+    background:#fff; 
 }
 
 .aboutus{
@@ -287,6 +288,7 @@
     margin-right: auto;
     padding-left: 15px;
     padding-right: 15px;
+    background:#fff; 
 }
 
 .article4 .inside-text{
@@ -382,6 +384,7 @@
     margin-right: auto;
     padding-left: 15px;
     padding-right: 15px;
+    background:#fff; 
 }
 
 .article6 .gallery-text{
@@ -495,6 +498,7 @@
      margin-right: auto;
      padding-left: 15px;
      padding-right: 15px;
+     background:#fff; 
  }
  
  .article8 .contact-text{
